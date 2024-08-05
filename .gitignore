@@ -1,0 +1,14 @@
+# pycahe 
+__pycache__/
+# .vscode
+.vscode/
+# .idea
+.idea/
+# .pytest_cache
+.pytest_cache/
+# .pyc
+*.pyc
+# .pyo
+*.pyo
+# venv
+venv/
