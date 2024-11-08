@@ -12,3 +12,7 @@ __pycache__/
 *.pyo
 # venv
 venv/
+public_key.pem
+private_key.pem
+aes_key.pem
+
